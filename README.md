@@ -32,4 +32,5 @@ OpenCore EFI Config for the HP ProDesk 600 G4 series of systems.
 
 ## Not Tested:
 * iMessage, iCloud, Siri, iTunes, other services
-* GPU accelerated applications, hardware video encoder/decoder
+* Hardware video encoder/decoder
+* Hardware DRM
