@@ -12,6 +12,8 @@ OpenCore EFI Config for the HP ProDesk 600 G4 series of systems.
 * SSD: WD SN720 256GB NVMe SSD
 * GPU: Intel UHD Graphics 630
 
+![image](https://cdn.upload.systems/uploads/luu1wudX.png)
+
 ## macOS version:
 * Tested macOS version: macOS Big Sur 11.5.2
 * Will also most likely work on Mojave, Catalina and Monterey.
