@@ -1,7 +1,4 @@
-Note - I no longer own this system, but I will attempt to keep the kexts and SSDTs up to 
-date. I am not able to guarantee that this will boot, so you 
-may need to report any issues that you might have or attempt to fix the issues 
-yourself.
+Note - I no longer own this system. This repo has been archived.
 
 # hp-prodesk-600-g4-opencore
 OpenCore EFI Config for the HP ProDesk 600 G4 series of systems.
